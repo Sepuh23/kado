@@ -1,0 +1,2 @@
+# kado
+script bunga
